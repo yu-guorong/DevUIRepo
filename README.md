@@ -5,6 +5,7 @@
 ##### ViewPager
 
 - [YViewPagerDemo](https://github.com/youngkaaa/YViewPagerDemo) `[停止维护]` 支持水平和垂直的ViewPage
+- [MagicViewPager](<https://github.com/hongyangAndroid/MagicViewPager>) 炫酷的ViewPager 适用于Banner
 
 ##### TabLayout
 
@@ -24,21 +25,30 @@
 
 - [okhttputils](https://github.com/hongyangAndroid/okhttputils) `[停止维护]` okhttp的辅助类
 - [BaseRecyclerViewAdapterHelper](<https://github.com/CymChad/BaseRecyclerViewAdapterHelper>) BRVAH 强大的RecyclerVIew Adapter
+- [Lazy](<https://github.com/l123456789jy/Lazy>) 常用工具类
+- [NetWorkUtil](<https://github.com/honglvt/NetWorkUtil>) `[Kotlin]` 网络请求工具类 retrofit2+rxjava2+okhttp3+Gson
 
 ##### Other 其他
 
 - [YCShopDetailLayout](https://github.com/yangchong211/YCShopDetailLayout) 商品详情页面，分页
+- [TBShoppingCart](<https://github.com/zilianliuxue/TBShoppingCart>) 购物车页面
 - [StatefulLayout](<https://github.com/gturedi/StatefulLayout>) Android 布局模版，Loading/Empty/Error等
 - [UniversalToast](<https://github.com/bboylin/UniversalToast>) 可点击的Toast，可设置图片
 - [MZBannerView](<https://github.com/pinguo-zhouwei/MZBannerView>) 仿魅族BannerView，图片轮播控件
+- [Log4a](<https://github.com/pqpo/Log4a>) Android 日志收集框架
 
 ##### Guide 教程
 
 - [Awesome-Android-Learning-Guide](<https://github.com/iwannabetop/Awesome-Android-Learning-Guide>) Android 进阶学习指南
 
+- [android-interview-guide](<https://github.com/sucese/android-interview-guide>) Android开发工程师面试指南
+- [LearningNotes](<https://github.com/francistao/LearningNotes>) 学习总结，面经
+
 ##### Sample 示例
 
 - [RxWeather](<https://github.com/SmartDengg/RxWeather>) RxJava项目
+- [JikeLikeDemo](<https://github.com/howshea/JikeLikeDemo>) 即刻点赞效果
+- [MaterialDesignSamples](<https://github.com/pinguo-zhouwei/MaterialDesignSamples>) MaterialDesign 系列控件Samples
 
 
 
