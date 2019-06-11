@@ -1,6 +1,9 @@
 # DevUIRepo
 #### UI库
 
+##### EditText
+
+- [PowerfulEditText](https://github.com/AndroidWJC/PowerfulEditText) 支持密码明文切换与清除
 
 ##### ViewPager
 
