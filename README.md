@@ -39,6 +39,7 @@
 - [UniversalToast](<https://github.com/bboylin/UniversalToast>) 可点击的Toast，可设置图片
 - [MZBannerView](<https://github.com/pinguo-zhouwei/MZBannerView>) 仿魅族BannerView，图片轮播控件
 - [Log4a](<https://github.com/pqpo/Log4a>) Android 日志收集框架
+- [Cactus](<https://github.com/gyf-dev/Cactus>) Android 保活
 
 ##### Guide 教程
 
